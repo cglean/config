@@ -1,5 +1,5 @@
 aws:
   billing:
-    bucket
+    bucket:
       name: cglean-billing
       prefix: daily/summary      
