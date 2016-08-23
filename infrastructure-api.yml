@@ -1,0 +1,5 @@
+aws:
+  billing:
+    bucket
+      name: cglean-billing
+      prefix: daily/summary      
