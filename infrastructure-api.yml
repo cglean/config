@@ -1,7 +1,7 @@
 config:
   server:
     bind:
-      test: 8-24-4:53pm
+      test: 8-24-6:23pm
 aws:
   billing:
     bucket:
